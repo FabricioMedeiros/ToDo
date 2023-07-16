@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/15 17:13:32.000.357,=C:\Users\Fabricio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/15 17:14:04.000.995,C:\Users\Fabricio\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\ufrmPrincipal.pas</Transaction>
+    <Transaction>2023/05/15 17:14:04.000.995,C:\Users\Fabricio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2023/05/15 17:14:09.000.589,C:\Users\Fabricio\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\ToDo.dproj</Transaction>
+    <Transaction>2023/05/15 17:14:13.000.189,C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\ufrmPrincipal.pas=</Transaction>
+    <Transaction>2023/05/15 17:15:11.000.858,=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Models\uTarefaDAO.pas</Transaction>
+    <Transaction>2023/05/15 17:15:11.000.848,=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Models\uTarefa.pas</Transaction>
+    <Transaction>2023/05/15 17:15:11.000.840,=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Models\uDBConnection.pas</Transaction>
+    <Transaction>2023/05/15 17:15:20.000.449,=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Controllers\uTarefaController.pas</Transaction>
+    <Transaction>2023/05/15 17:26:30.000.493,=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Views\uFrmCadTarefa.pas</Transaction>
+    <Transaction>2023/05/15 17:26:48.000.988,=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Utils\uUtils.pas</Transaction>
+    <Transaction>2023/05/15 17:27:11.000.782,=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Views\uFrmConsultaTarefas.pas</Transaction>
+    <Transaction>2023/05/15 17:28:32.000.890,C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Views\uFrmCadTarefa.pas=</Transaction>
+    <Transaction>2023/05/15 17:28:32.000.861,C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Views\uFrmConsultaTarefas.pas=</Transaction>
+    <Transaction>2023/05/15 17:29:08.000.851,=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Unit1.pas</Transaction>
+    <Transaction>2023/05/15 17:29:21.000.667,C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Unit1.dfm=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Views\uFrmConsultaTarefas.dfm</Transaction>
+    <Transaction>2023/05/15 17:29:21.000.667,C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Unit1.pas=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Views\uFrmConsultaTarefas.pas</Transaction>
+    <Transaction>2023/05/16 08:30:40.000.893,=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 08:31:02.000.116,C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Views\uFrmCadastroTarefas.pas=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 08:31:02.000.116,C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Views\uFrmCadastroTarefas.dfm=C:\Users\Fabricio\Desktop\Projetos_Testes\ToDo\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

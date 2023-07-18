@@ -13,6 +13,7 @@ O Controle de Tarefas é um aplicativo para gerenciamento e organização de tar
 - SQL Server
 - Firebird
 - Programação Orientada a Objeto (POO)
+- Clean Code
 - Padrão MVC (Model-View-Controller)
 
 ## Configuração de Conexão com Banco de Dados
@@ -37,12 +38,13 @@ UserName=USUARIO
 Password=SENHA
 
 Certifique-se de que o arquivo de configuração conexao.ini esteja presente no diretório raiz do aplicativo.
+```
+###  Scripts de Criação do Banco de Dados
 
-### Scripts de Criação do Banco de Dados
 Os scripts de criação dos bancos de dados estão disponíveis no diretório SCRIPTS. Certifique-se de executar os scripts correspondentes antes de configurar a conexão no arquivo conexao.ini. Os seguintes arquivos devem estar disponíveis:
 
-DB_Tarefas_Firebird.sql para a criação do banco de dados Firebird.
-DB_Tarefas_SQLServer.sql para a criação do banco de dados SQL Server.
+- DB_Tarefas_Firebird.sql para a criação do banco de dados Firebird.
+- DB_Tarefas_SQLServer.sql para a criação do banco de dados SQL Server.
 
 /scripts
   - DB_Tarefas_Firebird.sql
